@@ -1,2 +1,2 @@
-# Checker-
+# Checker
 Checker
