@@ -1,0 +1,71 @@
+1: [2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - email.recruiting.sna...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - developers.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - scim.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - mypoints.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - developer.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - goodsoulinmyfeet.sna...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - newsroom.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - blog.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - businesssupport.snap...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - mobile-partners.snap...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - affiliates.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - i.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - totalinternet.snap.c...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - bonzi.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - goodsoulinmyfeet-dev...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - creators.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - values.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - eng.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - meet.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.ghost.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - investor.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - experience.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - diversity.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - neoplanet.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - tr.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - account.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - 523.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - marketing-web-api.sn...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - shots.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - citizen.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - research.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.affiliates.snap....[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - web-platform.snap.co...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - direct.shots.snap.co...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - cookie.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - community.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - docs.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - nscp.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.investor.snap.co...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - aff.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - businesssuport.snap....[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - images.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - raptor.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - storage.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.shots-s.snap.com...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - direct.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - press.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - spa.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - bomis.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - devportal.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - careers.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - www.account.snap.com...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - ads.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - mobilepartners.snap....[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - learnar.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - research-test.snap.c...[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - home.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - xx.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - shots-s.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - accounts.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - ghost.snap.com[2K  0.00% - C: 0 / 71 - S: 0 - F: 0 - texting.snap.com[2Kwww.ghost.snap.com
+2: [2Kdeveloper.snap.com
+3: [2Kblog.snap.com
+4: [2Kcreators.snap.com
+5: [2Kmobile-partners.snap.com
+6: [2Ki.snap.com
+7: [2Knewsroom.snap.com
+8: [2Kmeet.snap.com
+9: [2Kshots.snap.com
+10: [2Kcitizen.snap.com
+11: [2K  7.04% - C: 5 / 71 - S: 5 - F: 0 - mobile-partners.snap...[2K  9.86% - C: 7 / 71 - S: 7 - F: 0 - newsroom.snap.com[2Kemail.recruiting.snap.com
+12: [2Kcookie.snap.com
+13: [2Kwww.affiliates.snap.com
+14: [2Kwww.investor.snap.com
+15: [2K  11.27% - C: 8 / 71 - S: 8 - F: 0 - meet.snap.com[2Kwww.snap.com
+16: [2Kaff.snap.com
+17: [2Kexperience.snap.com
+18: [2K  8.45% - C: 6 / 71 - S: 6 - F: 0 - i.snap.com[2Kbusinesssuport.snap.com
+19: [2Kresearch.snap.com
+20: [2Kimages.snap.com
+21: [2K  14.08% - C: 10 / 71 - S: 10 - F: 0 - citizen.snap.com[2K  4.23% - C: 3 / 71 - S: 4 - F: 0 - blog.snap.com[2Kneoplanet.snap.com
+22: [2K  2.82% - C: 2 / 71 - S: 2 - F: 0 - developer.snap.com[2Kbusinesssupport.snap.com
+23: [2Kghost.snap.com
+24: [2Kspa.snap.com
+25: [2K  18.31% - C: 13 / 71 - S: 13 - F: 0 - www.affiliates.sn...[2K  14.08% - C: 10 / 71 - S: 10 - F: 0 - co2saver.snap.com...[2Khome.snap.com
+26: [2Kinvestor.snap.com
+27: [2Kaccount.snap.com
+28: [2Kdirect.snap.com
+29: [2K  23.94% - C: 17 / 71 - S: 17 - F: 0 - experience.snap.c...[2K  15.49% - C: 11 / 71 - S: 11 - F: 0 - email.recruiting....[2Kaffiliates.snap.com
+30: [2Ktotalinternet.snap.com
+31: [2Kshots-s.snap.com
+32: [2Kmypoints.snap.com
+33: [2Kscim.snap.com
+34: [2Ksnap.com
+35: [2Kvalues.snap.com
+36: [2Keng.snap.com
+37: [2Kgoodsoulinmyfeet-dev.snap.com
+38: [2Kpress.snap.com
+39: [2Kdirect.shots.snap.com
+40: [2K  1.41% - C: 1 / 71 - S: 1 - F: 0 - www.ghost.snap.com[2K  5.63% - C: 4 / 71 - S: 4 - F: 0 - creators.snap.com[2Kdevelopers.snap.com
+41: [2K  32.39% - C: 23 / 71 - S: 24 - F: 0 - spa.snap.com[2K  35.21% - C: 25 / 71 - S: 25 - F: 0 - home.snap.com[2K  40.85% - C: 29 / 71 - S: 29 - F: 0 - affiliates.snap.c...[2Klearnar.snap.com
+42: [2K  30.99% - C: 22 / 71 - S: 23 - F: 0 - ghost.snap.com[2K  29.58% - C: 21 / 71 - S: 21 - F: 0 - neoplanet.snap.co...[2K  23.94% - C: 17 / 71 - S: 17 - F: 0 - pacbell.snap.com[2K  22.54% - C: 16 / 71 - S: 16 - F: 0 - ar.snap.com[2K  28.17% - C: 20 / 71 - S: 20 - F: 0 - ping.snap.com[2Kads.snap.com
+43: [2Kgoodsoulinmyfeet.snap.com
+44: [2Kmarketing-web-api.snap.com
+45: [2K  33.80% - C: 24 / 71 - S: 24 - F: 0 - games.snap.com[2K  12.68% - C: 9 / 71 - S: 9 - F: 0 - shots.snap.com[2K  16.90% - C: 12 / 71 - S: 12 - F: 0 - cookie.snap.com[2K  28.17% - C: 20 / 71 - S: 20 - F: 0 - your.snap.com[2Kdocs.snap.com
+46: [2K  25.35% - C: 18 / 71 - S: 19 - F: 0 - businesssuport.sn...[2K  28.17% - C: 20 / 71 - S: 20 - F: 0 - images.snap.com[2K  26.76% - C: 19 / 71 - S: 19 - F: 0 - research.snap.com...[2K  22.54% - C: 16 / 71 - S: 17 - F: 0 - adsys.snap.com[2Kdiversity.snap.com
+47: [2Knscp.snap.com
+48: [2Kweb-platform.snap.com
+49: [2K523.snap.com
+50: [2Ktr.snap.com
+51: [2Kcommunity.snap.com
+52: [2Kbonzi.snap.com
+53: [2K  38.03% - C: 27 / 71 - S: 27 - F: 0 - account.snap.com[2K  39.44% - C: 28 / 71 - S: 28 - F: 0 - direct.snap.com[2K  21.13% - C: 15 / 71 - S: 15 - F: 0 - www.snap.com[2K  45.07% - C: 32 / 71 - S: 32 - F: 0 - mypoints.snap.com...[2K  19.72% - C: 14 / 71 - S: 14 - F: 0 - www.investor.snap...[2K  22.54% - C: 16 / 71 - S: 16 - F: 0 - aff.snap.com[2K  56.34% - C: 40 / 71 - S: 40 - F: 0 - developers.snap.c...[2Kdevportal.snap.com
+54: [2Kraptor.snap.com
+55: [2K  52.11% - C: 37 / 71 - S: 37 - F: 0 - goodsoulinmyfeet-...[2Kxx.snap.com
+56: [2Kmobilepartners.snap.com
+57: [2Kwww.shots-s.snap.com
+58: [2K  49.30% - C: 35 / 71 - S: 35 - F: 0 - values.snap.com[2K  33.80% - C: 24 / 71 - S: 24 - F: 0 - businesssupport.s...[2K  43.66% - C: 31 / 71 - S: 31 - F: 0 - shots-s.snap.com[2K  36.62% - C: 26 / 71 - S: 26 - F: 0 - investor.snap.com...[2K  54.93% - C: 39 / 71 - S: 39 - F: 0 - direct.shots.snap...[2K  57.75% - C: 41 / 71 - S: 41 - F: 0 - learnar.snap.com[2K  53.52% - C: 38 / 71 - S: 38 - F: 0 - press.snap.com[2K  46.48% - C: 33 / 71 - S: 33 - F: 0 - scim.snap.com[2Kresearch-test.snap.com
+59: [2K  64.79% - C: 46 / 71 - S: 47 - F: 0 - diversity.snap.co...[2K  69.01% - C: 49 / 71 - S: 49 - F: 0 - 523.snap.com[2K  42.25% - C: 30 / 71 - S: 30 - F: 0 - totalinternet.sna...[2K  47.89% - C: 34 / 71 - S: 35 - F: 0 - snap.com[2K  63.38% - C: 45 / 71 - S: 45 - F: 0 - docs.snap.com[2K  50.70% - C: 36 / 71 - S: 36 - F: 0 - eng.snap.com[2K  67.61% - C: 48 / 71 - S: 49 - F: 0 - web-platform.snap...[2K  61.97% - C: 44 / 71 - S: 44 - F: 0 - marketing-web-api...[2K  59.15% - C: 42 / 71 - S: 42 - F: 0 - ads.snap.com[2K  60.56% - C: 43 / 71 - S: 43 - F: 0 - goodsoulinmyfeet....[2Kwww.account.snap.com
+60: [2K  70.42% - C: 50 / 71 - S: 50 - F: 0 - tr.snap.com[2K  71.83% - C: 51 / 71 - S: 51 - F: 0 - community.snap.co...[2K  73.24% - C: 52 / 71 - S: 52 - F: 0 - bonzi.snap.com[2K  66.20% - C: 47 / 71 - S: 47 - F: 0 - nscp.snap.com[2K  74.65% - C: 53 / 71 - S: 53 - F: 0 - devportal.snap.co...[2K  78.87% - C: 56 / 71 - S: 56 - F: 0 - mobilepartners.sn...[2K  76.06% - C: 54 / 71 - S: 54 - F: 0 - raptor.snap.com[2K  80.28% - C: 57 / 71 - S: 57 - F: 0 - www.shots-s.snap....[2K  83.10% - C: 59 / 71 - S: 59 - F: 0 - www.account.snap....[2K  77.46% - C: 55 / 71 - S: 56 - F: 0 - xx.snap.com[2K  81.69% - C: 58 / 71 - S: 58 - F: 0 - research-test.sna...[2Kpacbell.snap.com
+61: [2Kar.snap.com
+62: [2Kping.snap.com
+63: [2Kadsys.snap.com
+64: [2K  84.51% - C: 60 / 71 - S: 60 - F: 0 - pacbell.snap.com[2K  85.92% - C: 61 / 71 - S: 61 - F: 0 - ar.snap.com[2K  87.32% - C: 62 / 71 - S: 62 - F: 0 - ping.snap.com[2K  88.73% - C: 63 / 71 - S: 63 - F: 0 - adsys.snap.com[2Ktexting.snap.com
+65: [2Kaccounts.snap.com
+66: [2K  90.14% - C: 64 / 71 - S: 65 - F: 0 - accounts.snap.com...[2K  91.55% - C: 65 / 71 - S: 65 - F: 0 - texting.snap.com[2Kcareers.snap.com
+67: [2Kstorage.snap.com
+68: [2Kbomis.snap.com
+69: [2Kco2saver.snap.com
+70: [2K  92.96% - C: 66 / 71 - S: 66 - F: 0 - careers.snap.com[2K  95.77% - C: 68 / 71 - S: 68 - F: 0 - bomis.snap.com[2K  97.18% - C: 69 / 71 - S: 69 - F: 0 - co2saver.snap.com...[2K  94.37% - C: 67 / 71 - S: 67 - F: 0 - storage.snap.com[2Kyour.snap.com
+71: [2Kgames.snap.com
